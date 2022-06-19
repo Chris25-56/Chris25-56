@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chris25-56
-- Your work for using gmail for email mailing is very fun
-- But i cannot create an expeditor, searching in the data base the configuration fail ... 
+- Your work for using gmail for email mailing in LO wtih Gmail is very fun
+- But i cannot create an expeditor, searching in the data base the configuration fail ... (cf picture)
 - 💞️ I’m using LO 3.7.4 with Windows 10
 - 
 
